@@ -5,12 +5,7 @@
 --MAX()
 --SUM()
 --AVG()
---COUNT()
---GROUP BY
---HAVING
---ROW_NUMBER()
---SUBQUERY
---NESTED QUERY
+
 --===========================================================
 SELECT Employee.BusinessEntityID,
 		Employee.NationalIDNumber AS [პირადობა],
