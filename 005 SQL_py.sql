@@ -1,3 +1,8 @@
+--ROW_NUMBER()
+--SUBQUERY
+--NESTED QUERY
+--====================================================================================
+
 --Row_Number()
 SELECT PP.*,
        ROW_NUMBER() OVER (ORDER BY PP.PhoneNumber) AS [only ordering],
